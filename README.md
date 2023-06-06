@@ -26,7 +26,7 @@ This is a C++ program designed to help parents of secondary school students bett
 2. Comparision exec time between jump / linear / linear transition search.
 3. [Result] -> Linear transition search time will decrease while keep searching on same items but if search different items the exec time will same like the linear search.
 
-## Result Discussion
+## Result & Discussion
 ### Sort Result
 <p align="left" width="100%">
     <img src="/Result/Sort_result.png" width="700">
