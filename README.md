@@ -17,12 +17,12 @@ This is a C++ program designed to help parents of secondary school students bett
 - Linear Transition Search (proposed)
 
 ### Sort Algorithms
-1. Merge sort algorithms had been fully utilised as a finaly sort algorithms in this system.
+1. Merge sort algorithms had been fully utilised as a final sort algorithms in this system.
 2. Comparision exec time between merge sort and bubble sort.
 3. Sort result based on specific attributes in doubly linked list.
 
 ### Search Algorithms
-1. Linear Transition + Linear search had been fully utilised as a finaly search algorithms in this system. 
+1. Linear Transition + Linear search had been fully utilised as a final search algorithms in this system. 
 2. Comparision exec time between jump / linear / linear transition search.
 3. [Result] -> Linear transition search time will decrease while keep searching on same items but if search different items the exec time will same like the linear search.
 
